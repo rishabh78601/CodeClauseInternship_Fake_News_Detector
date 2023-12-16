@@ -1,4 +1,4 @@
-# Fake News Detection using Data Science and Machine learning
+# Fake News Detector using Data Science and Machine learning
 
 # Dataset Information
 <li>Two datasets: df_fake and df_true.
